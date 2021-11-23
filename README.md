@@ -21,7 +21,7 @@ Papers for Winter 2022 (Jan 27, Feb 24 , Mar 31):
 
 Siyue:
 
-- [Statistical inference for natural language processing algorithms with a demonstration using type 2 diabetes prediction from electronic health record notes] (https://onlinelibrary.wiley.com/doi/epdf/10.1111/biom.13338)(Egleston et al 2020)
+- [Statistical inference for natural language processing algorithms with a demonstration using type 2 diabetes prediction from electronic health record notes](https://onlinelibrary.wiley.com/doi/epdf/10.1111/biom.13338)(Egleston et al 2020)
 
 Yuan:
 
@@ -29,7 +29,7 @@ Yuan:
 
 Jianhui:
 
--[Testing calibration of phenotyping models using positive-only electronic health record data](https://academic.oup.com/biostatistics/advance-article-abstract/doi/10.1093/biostatistics/kxab003/6146184?redirectedFrom=fulltext) (Zhang et al 2021)
+- [Testing calibration of phenotyping models using positive-only electronic health record data](https://academic.oup.com/biostatistics/advance-article-abstract/doi/10.1093/biostatistics/kxab003/6146184?redirectedFrom=fulltext) (Zhang et al 2021)
 
 
 
