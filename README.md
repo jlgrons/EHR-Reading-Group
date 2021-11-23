@@ -17,7 +17,7 @@ Slides from our electronic health records (EHRs) reading group at University of 
 - Surrogate-assisted feature extraction for high-throughput phenotyping (Yu et al. 2017) [[paper]](https://academic.oup.com/jamia/article/24/e1/e143/2631516) [[slides]](https://github.com/jlgrons/EHR-Reading-Group/blob/main/Fall%202021%20Slides/SurrogateAssistedFeatureSelectionForHighThroughputPhenotyping_Yu_2017.pdf)
 
 
-Papers for Winter 2022 (Jan 27, Feb 24 , Mar 31):
+Papers for Winter 2022 (Jan 27, Feb 24 (Reading week?), Mar 31):
 
 Siyue:
 
