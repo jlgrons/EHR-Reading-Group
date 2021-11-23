@@ -21,7 +21,7 @@ Papers for Winter 2022 (Jan 27, Feb 24 , Mar 31):
 
 Siyue:
 
--  [Statistical inference for natural language processing algorithms with a demonstration using type 2 diabetes prediction from electronic health record notes (https://onlinelibrary.wiley.com/doi/epdf/10.1111/biom.13338)(Egleston et al 2020)
+- [Statistical inference for natural language processing algorithms with a demonstration using type 2 diabetes prediction from electronic health record notes] (https://onlinelibrary.wiley.com/doi/epdf/10.1111/biom.13338)(Egleston et al 2020)
 
 Yuan:
 
