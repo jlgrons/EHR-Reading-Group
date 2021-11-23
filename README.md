@@ -17,4 +17,24 @@ Slides from our electronic health records (EHRs) reading group at University of 
 - Surrogate-assisted feature extraction for high-throughput phenotyping (Yu et al. 2017) [[paper]](https://academic.oup.com/jamia/article/24/e1/e143/2631516) [[slides]](https://github.com/jlgrons/EHR-Reading-Group/blob/main/Fall%202021%20Slides/SurrogateAssistedFeatureSelectionForHighThroughputPhenotyping_Yu_2017.pdf)
 
 
+Papers for Winter 2022 (Jan 27, Feb 24 , Mar 31):
+
+Siyue:
+
+-  [Statistical inference for natural language processing algorithms with a demonstration using type 2 diabetes prediction from electronic health record notes (https://onlinelibrary.wiley.com/doi/epdf/10.1111/biom.13338)(Egleston et al 2020)
+
+Yuan:
+
+- [Case contamination in electronic health records based case-control studies](https://onlinelibrary.wiley.com/doi/epdf/10.1111/biom.13264) (Wang et al 2020)
+
+Jianhui:
+
+-[Testing calibration of phenotyping models using positive-only electronic health record data](https://academic.oup.com/biostatistics/advance-article-abstract/doi/10.1093/biostatistics/kxab003/6146184?redirectedFrom=fulltext) (Zhang et al 2021)
+
+
+
+
+ 
+ 
+ 
 
